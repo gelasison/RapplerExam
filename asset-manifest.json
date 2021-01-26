@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RapplerExam/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/RapplerExam/static/js/main.6580a9d5.chunk.js",
+    "main.js.map": "/RapplerExam/static/js/main.6580a9d5.chunk.js.map",
+    "runtime-main.js": "/RapplerExam/static/js/runtime-main.c53ded7b.js",
+    "runtime-main.js.map": "/RapplerExam/static/js/runtime-main.c53ded7b.js.map",
+    "static/js/2.87a900dd.chunk.js": "/RapplerExam/static/js/2.87a900dd.chunk.js",
+    "static/js/2.87a900dd.chunk.js.map": "/RapplerExam/static/js/2.87a900dd.chunk.js.map",
+    "static/js/3.939676d8.chunk.js": "/RapplerExam/static/js/3.939676d8.chunk.js",
+    "static/js/3.939676d8.chunk.js.map": "/RapplerExam/static/js/3.939676d8.chunk.js.map",
+    "index.html": "/RapplerExam/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/RapplerExam/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.87a900dd.chunk.js.LICENSE.txt": "/RapplerExam/static/js/2.87a900dd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/RapplerExam/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53ded7b.js",
+    "static/js/2.87a900dd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6580a9d5.chunk.js"
+  ]
+}
